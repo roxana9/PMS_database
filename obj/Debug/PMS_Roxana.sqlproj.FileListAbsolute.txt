@@ -1,0 +1,10 @@
+C:\Users\z5451123\source\repos\PMS_Roxana\PMS_Roxana\bin\Debug\PMS_Roxana.dacpac
+C:\Users\z5451123\source\repos\PMS_Roxana\PMS_Roxana\bin\Debug\PMS_Roxana.dll
+C:\Users\z5451123\source\repos\PMS_Roxana\PMS_Roxana\bin\Debug\PMS_Roxana.pdb
+C:\Users\z5451123\source\repos\PMS_Roxana\PMS_Roxana\obj\Debug\PMS_Roxana.sqlproj.AssemblyReference.cache
+C:\Users\z5451123\source\repos\PMS_Roxana\PMS_Roxana\obj\Debug\Model.xml
+C:\Users\z5451123\source\repos\PMS_Roxana\PMS_Roxana\obj\Debug\refactor.xml
+C:\Users\z5451123\source\repos\PMS_Roxana\PMS_Roxana\obj\Debug\postdeploy.sql
+C:\Users\z5451123\source\repos\PMS_Roxana\PMS_Roxana\obj\Debug\predeploy.sql
+C:\Users\z5451123\source\repos\PMS_Roxana\PMS_Roxana\obj\Debug\PMS_Roxana.dll
+C:\Users\z5451123\source\repos\PMS_Roxana\PMS_Roxana\obj\Debug\PMS_Roxana.pdb
